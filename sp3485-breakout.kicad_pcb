@@ -317,7 +317,7 @@
     )
   )
 
-  (gr_text Rev2020.10 (at 151.1 80.2 270) (layer B.SilkS) (tstamp 5F8CC5AB)
+  (gr_text Rev2020.11 (at 151.1 80.2 270) (layer B.SilkS) (tstamp 5F8CC5AB)
     (effects (font (size 0.8 0.8) (thickness 0.15)) (justify mirror))
   )
   (gr_text SP3485 (at 154.7 80.8 270) (layer B.SilkS) (tstamp 5F8CC5AB)
