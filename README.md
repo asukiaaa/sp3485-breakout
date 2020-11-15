@@ -1,5 +1,13 @@
 # sp3485-breakout
 
+## Setup
+
+To install submodules, run the following command after clone.
+
+```
+git submodule update --init --recursive
+```
+
 ## License
 
 MIT
