@@ -1,5 +1,7 @@
 # sp3485-breakout
 
+![sp3485-breakout](./docs/sp3485-breakout.jpg)
+
 ## Setup
 
 To install submodules, run the following command after clone.
