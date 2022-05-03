@@ -1,0 +1,5 @@
+Qty,Reference(s),Value,LibPart,Footprint,memo
+1,C1,0.1u,Device:C,Capacitor_SMD:C_0402_1005Metric,0.1uf more than 5V 0402inch
+2,"J1, J2",Conn_01x04,Connector_Generic:Conn_01x04,my-kicad-footprints:Pin_1x04_P2.54mm_nosilk,
+1,R1,220,Device:R,Resistor_SMD:R_0402_1005Metric,1/16W 5% 220Ω 0402inch
+1,U1,SP3485CN,Interface_UART:SP3485CN,Package_SO:SOIC-8_3.9x4.9mm_P1.27mm,https://lcsc.com/product-detail/RS-span-style-background-color-ff0-485-span-RS-422-ICs_MaxLinear-SP3485EN-L-TR_C8963.html
